@@ -6,8 +6,6 @@ author: Simon McCartney
 tags: weeknote
 ---
 
-![A box full of lanyards and access cards from past clients](/static/img/lanyards.jpeg)
-
 October was a month of two halves. The first half of the month I was finishing up my time with AND Digital. It was a short but felt fulfilling engagement as I laid the foundations of the UX community within Club Spärck. My time with the Department for Education was a chance to gain insight into the workings of another government department. I was ready for my next challenge.
 
 That challenge was leaving the world of freelancing and joining HM Revenue & Customs as their Head of Service Design.
